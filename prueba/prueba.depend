@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729952643 source:c:\users\nahuel\documents\proyectos\proc\archivos\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1729953793 c:\users\nahuel\documents\proyectos\proc\archivos\prueba\header.h
+
