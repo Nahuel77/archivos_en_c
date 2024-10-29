@@ -1,0 +1,11 @@
+Caro	29	9
+Nahuel	35	10
+Ramon	33	7
+Laura	26	8
+Ceci	22	10
+Mateo	22	3
+Raul	25	10
+Romina	30	5
+Homero	50	7
+Lorenza	40	10
+Rene	20	1

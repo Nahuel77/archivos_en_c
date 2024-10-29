@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730210518 source:c:\users\nahuel\documents\proyectos\proc\archivos\tania_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1730211739 c:\users\nahuel\documents\proyectos\proc\archivos\tania_code\header.h
+
